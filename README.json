@@ -1,0 +1,669 @@
+{
+  "items": [
+    {
+      "description": "Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly.\nSass has two syntaxes. The new main syntax (as of Sass 3) is known as \"SCSS\" (for \"Sassy CSS\"), and is a superset of CSS's syntax. This means that every valid CSS stylesheet is valid SCSS as well. SCSS files use the extension .\nThe second, older syntax is known as the indented syntax (or just \"Sass\"). Inspired by Haml's terseness, it's intended for people who prefer conciseness over similarity to CSS. Instead of brackets and semicolons, it uses the indentation of lines to specify blocks. Although no longer the primary syntax, the indented syntax will continue to be supported. Files in the indented syntax use the extension .",
+      "items": [],
+      "title": "About"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bootstrap 4",
+          "description": "Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-13T03:36:08Z",
+            "owner": "twbs",
+            "repo": "bootstrap",
+            "stars": 174578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bulma",
+          "description": "Modern CSS framework based on Flexbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-01T20:13:02Z",
+            "owner": "jgthms",
+            "repo": "bulma",
+            "stars": 50057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Foundation for Sites",
+          "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-01-21T22:11:53Z",
+            "owner": "foundation",
+            "repo": "foundation-sites",
+            "stars": 29788
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bootstrap-sass",
+          "description": "Official Sass port of Bootstrap 2 and 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-01-03T08:04:35Z",
+            "owner": "twbs",
+            "repo": "bootstrap-sass",
+            "stars": 12498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cirrus",
+          "description": "A component and utility centric SCSS framework designed for rapid prototyping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-10T04:34:23Z",
+            "owner": "Spiderpig86",
+            "repo": "Cirrus",
+            "stars": 1431
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Libraries and Mixins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Susy",
+          "description": "Responsive layout toolkit for Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-04-16T18:19:02Z",
+            "owner": "oddbird",
+            "repo": "susy",
+            "stars": 3822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeet",
+          "description": "Simple fractional grid system for Sass and Stylus.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2025-09-29T14:18:39Z",
+            "owner": "mojotech",
+            "repo": "jeet",
+            "stars": 2955
+          }
+        }
+      ],
+      "title": "Grid"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Breakpoint",
+          "description": "Breakpoint makes writing media queries in Sass super simple.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-01-19T01:15:04Z",
+            "owner": "at-import",
+            "repo": "breakpoint",
+            "stars": 2080
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sass MQ",
+          "description": "Sass mixin that helps you compose media queries in an elegant way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-07-30T17:00:52Z",
+            "owner": "sass-mq",
+            "repo": "sass-mq",
+            "stars": 1986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mq-scss",
+          "description": "An extreamly powerful but easy to use Sass media query mixin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-05-17T11:43:38Z",
+            "owner": "Dan503",
+            "repo": "mq-scss",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Media Queries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open color",
+          "description": "Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Handlebars",
+            "last_commit": "2023-12-10T16:29:40Z",
+            "owner": "yeun",
+            "repo": "open-color",
+            "stars": 5553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scss-blend-modes",
+          "description": "Using standard color blending functions in Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-09-01T15:36:26Z",
+            "owner": "heygrady",
+            "repo": "scss-blend-modes",
+            "stars": 814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass-planifolia",
+          "description": "Advanced color manipulation and contrast calculation in vanilla Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-15T04:45:06Z",
+            "owner": "xi",
+            "repo": "sass-planifolia",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Color"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Typi",
+          "description": "Sass mixin to make responsive typography easy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-12-09T17:02:05Z",
+            "owner": "zellwk",
+            "repo": "typi",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sassy-Gridlover",
+          "description": "Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-04-01T12:09:20Z",
+            "owner": "hiulit",
+            "repo": "Sassy-Gridlover",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Typography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Animate.scss",
+          "description": "Port of Dan Eden's Animate.css for SASS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-03-21T17:16:30Z",
+            "owner": "geoffgraham",
+            "repo": "animate.scss",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sass Burger",
+          "description": "Sass mixin for creating animated hamburger icon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2021-09-29T22:04:35Z",
+            "owner": "jorenvanhee",
+            "repo": "sass-burger",
+            "stars": 644
+          }
+        }
+      ],
+      "title": "Animation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Buttons",
+          "description": "CSS button library built using Sass and Compass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-10T22:18:55Z",
+            "owner": "alexwolfe",
+            "repo": "Buttons",
+            "stars": 4996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "retina.js",
+          "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-04-14T05:58:04Z",
+            "owner": "strues",
+            "repo": "retinajs",
+            "stars": 4379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Modular Scale",
+          "description": "Modular scale calculator built into your Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-11-29T19:40:50Z",
+            "owner": "modularscale",
+            "repo": "modularscale-sass",
+            "stars": 1959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretty checkbox",
+          "description": "SCSS/CSS library to beautify checkbox and radio buttons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-10-14T16:34:51Z",
+            "owner": "lokesh-coder",
+            "repo": "pretty-checkbox",
+            "stars": 1804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "normalize-scss",
+          "description": "Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-11-11T07:45:21Z",
+            "owner": "JohnAlbin",
+            "repo": "normalize-scss",
+            "stars": 1421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sass flexbox mixin",
+          "description": "Set of mixins for those who want to mess around with flexbox using the native support of current browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-01-16T03:14:51Z",
+            "owner": "mastastealth",
+            "repo": "sass-flex-mixin",
+            "stars": 1110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angled Edges",
+          "description": "Sass mixin for creating angled edges on sections by dynamically encoding SVGs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2019-01-04T12:59:49Z",
+            "owner": "josephfusco",
+            "repo": "angled-edges",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scut",
+          "description": "Collection of Sass utilities to ease and improve the implementations of common style-code patterns.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-02-07T17:13:36Z",
+            "owner": "RamseyInHouse",
+            "repo": "scut",
+            "stars": 756
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sassdash",
+          "description": "The Sass implementation of lodash (API documentation).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-07-21T14:43:05Z",
+            "owner": "davidkpiano",
+            "repo": "sassdash",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sass Deprecate",
+          "description": "Sass mixin that helps managing code deprecation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-10-12T08:27:55Z",
+            "owner": "salesforce-ux",
+            "repo": "sass-deprecate",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buttono",
+          "description": "A flexible Sass mixin for creating BEM-style buttons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-02-02T23:54:48Z",
+            "owner": "hsnaydd",
+            "repo": "buttono",
+            "stars": 91
+          }
+        }
+      ],
+      "title": "Miscellaneous"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Airbnb Sass and CSS Style Guide",
+          "description": "Sass and CSS style guide by Airbnb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-04T00:44:40Z",
+            "owner": "airbnb",
+            "repo": "css",
+            "stars": 6977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dropbox (S)CSS Style Guide",
+          "description": "Dropbox’s (S)CSS authoring style guide.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-11-08T08:25:39Z",
+            "owner": "dropbox",
+            "repo": "css-style-guide",
+            "stars": 1216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigCommerce Sass Coding Guidelines",
+          "description": "Guidelines in use at BigCommerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-05-23T04:46:43Z",
+            "owner": "bigcommerce",
+            "repo": "sass-style-guide",
+            "stars": 279
+          }
+        }
+      ],
+      "title": "Style Guides"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "node-sass",
+          "description": "Node.js bindings to libsass.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-07-24T21:59:31Z",
+            "owner": "sass",
+            "repo": "node-sass",
+            "stars": 8460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OctoLinker",
+          "description": "Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-10-02T12:33:45Z",
+            "owner": "OctoLinker",
+            "repo": "OctoLinker",
+            "stars": 5387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsass",
+          "description": "C/C++ implementation of a Sass compiler.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2025-10-24T22:58:42Z",
+            "owner": "sass",
+            "repo": "libsass",
+            "stars": 4325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dart-sass",
+          "description": "Dart implementation of Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-12T22:04:27Z",
+            "owner": "sass",
+            "repo": "dart-sass",
+            "stars": 4214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass-loader",
+          "description": "Sass loader for webpack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:35:02Z",
+            "owner": "webpack",
+            "repo": "sass-loader",
+            "stars": 3892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scss-lint",
+          "description": "Configurable tool for writing clean and consistent SCSS. (deprecated)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-01-16T23:59:53Z",
+            "owner": "sds",
+            "repo": "scss-lint",
+            "stars": 3677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass-rails",
+          "description": "Ruby on Rails stylesheet engine for Sass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2020-10-01T19:31:05Z",
+            "owner": "rails",
+            "repo": "sass-rails",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libsass-python",
+          "description": "Binding of libsass for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-24T23:04:09Z",
+            "owner": "sass",
+            "repo": "libsass-python",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-sass-magic-importer",
+          "description": "Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-16T19:50:38Z",
+            "owner": "maoberlehner",
+            "repo": "node-sass-magic-importer",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sass-extract",
+          "description": "Extract variables from scss files. Use scss to describe styles for use in javascript by extracting computed styles into js objects. Supports imports and advanced language features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-04T17:36:55Z",
+            "owner": "jgranstrom",
+            "repo": "sass-extract",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpScss",
+          "description": "P/Invoke .NET wrapper around libsass to convert SCSS to CSS supporting NET2.0/NET3.5/NET4.x+ and CoreCLR platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-11-02T10:50:46Z",
+            "owner": "xoofx",
+            "repo": "SharpScss",
+            "stars": 59
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:57.507Z",
+    "original_repository": "Famolus/awesome-sass",
+    "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
+    "enhanced_repository": "enhansome/enhansome-sass",
+    "enhanced_repository_description": null,
+    "title": "Awesome Sass with stars"
+  }
+}

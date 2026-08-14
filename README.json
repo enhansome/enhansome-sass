@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T03:36:08Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174577
+            "stars": 174581
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2023-11-11T07:45:21Z",
             "owner": "JohnAlbin",
             "repo": "normalize-scss",
-            "stars": 1421
+            "stars": 1422
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5387
+            "stars": 5386
           }
         },
         {
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T22:04:27Z",
+            "last_commit": "2026-08-14T01:04:41Z",
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4214
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T15:06:43.335Z",
+    "last_updated": "2026-08-14T15:01:24.403Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
     "enhanced_repository": "enhansome/enhansome-sass",

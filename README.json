@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T03:36:08Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174581
+            "stars": 174591
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50058
+            "stars": 50057
           }
         },
         {
@@ -340,7 +340,7 @@
             "last_commit": "2020-10-14T16:34:51Z",
             "owner": "lokesh-coder",
             "repo": "pretty-checkbox",
-            "stars": 1804
+            "stars": 1803
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6977
+            "stars": 6976
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5386
+            "stars": 5385
           }
         },
         {
@@ -548,7 +548,7 @@
             "last_commit": "2026-08-14T01:04:41Z",
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4214
+            "stars": 4215
           }
         },
         {
@@ -562,7 +562,7 @@
             "last_commit": "2026-08-12T19:35:02Z",
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3892
+            "stars": 3891
           }
         },
         {
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:01:24.403Z",
+    "last_updated": "2026-08-15T14:32:13.409Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
     "enhanced_repository": "enhansome/enhansome-sass",

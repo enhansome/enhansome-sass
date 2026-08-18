@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-13T03:36:08Z",
+            "last_commit": "2026-08-18T09:04:43Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174601
+            "stars": 174609
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50055
+            "stars": 50054
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29790
+            "stars": 29785
           }
         },
         {
@@ -100,7 +100,7 @@
             "last_commit": "2024-04-16T18:19:02Z",
             "owner": "oddbird",
             "repo": "susy",
-            "stars": 3822
+            "stars": 3821
           }
         },
         {
@@ -148,7 +148,7 @@
             "last_commit": "2026-07-30T17:00:52Z",
             "owner": "sass-mq",
             "repo": "sass-mq",
-            "stars": 1986
+            "stars": 1987
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2023-12-10T16:29:40Z",
             "owner": "yeun",
             "repo": "open-color",
-            "stars": 5553
+            "stars": 5555
           }
         },
         {
@@ -545,7 +545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-14T01:04:41Z",
+            "last_commit": "2026-08-18T02:43:42Z",
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4215
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T14:37:22.702Z",
+    "last_updated": "2026-08-18T14:44:08.528Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
     "enhanced_repository": "enhansome/enhansome-sass",

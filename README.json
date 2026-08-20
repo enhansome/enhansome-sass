@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-19T02:15:32Z",
+            "last_commit": "2026-08-20T04:12:13Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174612
+            "stars": 174620
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29787
+            "stars": 29788
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-10T04:34:23Z",
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1432
+            "stars": 1431
           }
         }
       ],
@@ -433,7 +433,7 @@
                 "last_commit": "2023-07-21T14:43:05Z",
                 "owner": "davidkpiano",
                 "repo": "sassdash",
-                "stars": 391
+                "stars": 390
               }
             },
             {
@@ -489,7 +489,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6976
+            "stars": 6975
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2019-11-08T08:25:39Z",
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1216
+            "stars": 1215
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384
+            "stars": 5385
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 72474275,
             "language": "Dart",
-            "last_commit": "2026-08-18T22:26:54Z",
+            "last_commit": "2026-08-20T00:49:31Z",
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4215
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:44:27.556Z",
+    "last_updated": "2026-08-20T14:47:10.154Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

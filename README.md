@@ -52,8 +52,8 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,620 | 🐛 237 | 🌐 MDX | 📅 2026-08-20 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,053 | 🐛 528 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,623 | 🐛 234 | 🌐 MDX | 📅 2026-08-21 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,051 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
 * [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,788 | 🐛 80 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,499 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,431 | 🐛 29 | 🌐 SCSS | 📅 2026-08-10 - A component and utility centric SCSS framework designed for rapid prototyping.
@@ -70,7 +70,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Grid
 
-* [Susy](https://github.com/oddbird/susy) ⭐ 3,821 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
+* [Susy](https://github.com/oddbird/susy) ⭐ 3,819 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
 * [Jeet](https://github.com/mojotech/jeet) ⚠️ Archived - Simple fractional grid system for Sass and Stylus.
 * [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 * [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
@@ -92,14 +92,14 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Color
 
-* [Open color](https://github.com/yeun/open-color) ⭐ 5,556 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+* [Open color](https://github.com/yeun/open-color) ⭐ 5,557 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) ⭐ 814 | 🐛 4 | 🌐 CSS | 📅 2017-09-01 - Using standard color blending functions in Sass.
 * [sass-planifolia](https://github.com/xi/sass-planifolia) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-15 - Advanced color manipulation and contrast calculation in vanilla Sass.
 * [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 
 ### Typography
 
-* [Typi](https://github.com/zellwk/typi) ⭐ 855 | 🐛 8 | 🌐 CSS | 📅 2022-12-09 - Sass mixin to make responsive typography easy.
+* [Typi](https://github.com/zellwk/typi) ⭐ 854 | 🐛 8 | 🌐 CSS | 📅 2022-12-09 - Sass mixin to make responsive typography easy.
 * [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) ⭐ 221 | 🐛 2 | 🌐 HTML | 📅 2019-04-01 - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 * [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 * [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
@@ -119,7 +119,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [Modular Scale](https://github.com/modularscale/modularscale-sass) ⭐ 1,959 | 🐛 18 | 🌐 CSS | 📅 2025-11-29 - Modular scale calculator built into your Sass.
 * [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) ⭐ 1,803 | 🐛 57 | 🌐 CSS | 📅 2020-10-14 -  SCSS/CSS library to beautify checkbox and radio buttons.
 * [normalize-scss](https://github.com/JohnAlbin/normalize-scss) ⭐ 1,422 | 🐛 2 | 🌐 SCSS | 📅 2023-11-11 -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
-* [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) ⭐ 1,110 | 🐛 4 | 🌐 CSS | 📅 2018-01-16 - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+* [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) ⭐ 1,108 | 🐛 4 | 🌐 CSS | 📅 2018-01-16 - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 * [Angled Edges](https://github.com/josephfusco/angled-edges) ⭐ 948 | 🐛 1 | 🌐 CSS | 📅 2019-01-04 - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 * [Scut](https://github.com/davidtheclark/scut) ⭐ 756 | 🐛 0 | 🌐 SCSS | 📅 2022-02-07 - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 * [Sassdash](https://github.com/davidkpiano/sassdash) ⭐ 390 | 🐛 7 | 🌐 SCSS | 📅 2023-07-21 - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
@@ -134,7 +134,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Style Guides
 
-* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,975 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
+* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,974 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,215 | 🐛 5 | 📅 2019-11-08 - Dropbox’s (S)CSS authoring style guide.
 * [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) ⭐ 279 | 🐛 1 | 🌐 CSS | 📅 2017-05-23 - Guidelines in use at BigCommerce.
 * [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
@@ -162,8 +162,8 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [node-sass](https://github.com/sass/node-sass) ⚠️ Archived - Node.js bindings to libsass.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) ⭐ 5,385 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Navigate through \*.scss and \*.sass files efficiently with the OctoLinker browser extension for GitHub.
 * [libsass](https://github.com/sass/libsass) ⚠️ Archived - C/C++ implementation of a Sass compiler.
-* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,215 | 🐛 69 | 🌐 Dart | 📅 2026-08-20 - Dart implementation of Sass.
-* [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,892 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-12 - Sass loader for webpack.
+* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,214 | 🐛 67 | 🌐 Dart | 📅 2026-08-20 - Dart implementation of Sass.
+* [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,892 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-20 - Sass loader for webpack.
 * [scss-lint](https://github.com/brigade/scss-lint) ⭐ 3,677 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16 - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) ⭐ 3,677 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16
 * [sass-rails](https://github.com/rails/sass-rails) ⭐ 859 | 🐛 10 | 🌐 Ruby | 📅 2020-10-01 - Ruby on Rails stylesheet engine for Sass.
 * [libsass-python](https://github.com/dahlia/libsass-python) ⚠️ Archived - Binding of libsass for Python.
@@ -202,4 +202,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

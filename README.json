@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-20T04:12:13Z",
+            "last_commit": "2026-08-21T02:51:17Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174620
+            "stars": 174623
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50053
+            "stars": 50051
           }
         },
         {
@@ -98,7 +98,7 @@
                 "last_commit": "2024-04-16T18:19:02Z",
                 "owner": "oddbird",
                 "repo": "susy",
-                "stars": 3821
+                "stars": 3819
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5556
+                "stars": 5557
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2022-12-09T17:02:05Z",
                 "owner": "zellwk",
                 "repo": "typi",
-                "stars": 855
+                "stars": 854
               }
             },
             {
@@ -388,7 +388,7 @@
                 "last_commit": "2018-01-16T03:14:51Z",
                 "owner": "mastastealth",
                 "repo": "sass-flex-mixin",
-                "stars": 1110
+                "stars": 1108
               }
             },
             {
@@ -489,7 +489,7 @@
             "last_commit": "2024-06-04T00:44:40Z",
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6975
+            "stars": 6974
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8461
+            "stars": 8460
           }
         },
         {
@@ -582,10 +582,10 @@
             "archived": false,
             "id": 72474275,
             "language": "Dart",
-            "last_commit": "2026-08-20T00:49:31Z",
+            "last_commit": "2026-08-20T22:25:30Z",
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4215
+            "stars": 4214
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 16665655,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T19:35:02Z",
+            "last_commit": "2026-08-20T23:26:35Z",
             "owner": "webpack",
             "repo": "sass-loader",
             "stars": 3892
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:47:10.154Z",
+    "last_updated": "2026-08-21T14:46:22.485Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

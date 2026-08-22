@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-21T02:51:17Z",
+            "last_commit": "2026-08-22T03:57:33Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174623
+            "stars": 174632
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50051
+            "stars": 50053
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29788
+            "stars": 29787
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-01-03T08:04:35Z",
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12499
+            "stars": 12498
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8460
+            "stars": 8459
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-20T23:26:35Z",
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3892
+            "stars": 3891
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:46:22.485Z",
+    "last_updated": "2026-08-22T14:30:44.314Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T03:57:33Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174632
+            "stars": 174640
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50053
+            "stars": 50054
           }
         },
         {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5557
+                "stars": 5558
               }
             },
             {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-20T22:25:30Z",
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4214
+            "stars": 4215
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T14:30:44.314Z",
+    "last_updated": "2026-08-23T14:32:37.290Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

@@ -597,7 +597,7 @@
             "archived": false,
             "id": 16665655,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:08:56Z",
+            "last_commit": "2026-08-24T14:14:26Z",
             "owner": "webpack",
             "repo": "sass-loader",
             "stars": 3891
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:08.865Z",
+    "last_updated": "2026-08-24T14:53:08.462Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

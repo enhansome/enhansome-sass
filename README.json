@@ -45,7 +45,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29787
+            "stars": 29785
           }
         },
         {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5558
+                "stars": 5557
               }
             },
             {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8459
+            "stars": 8458
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-20T22:25:30Z",
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4215
+            "stars": 4216
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 16665655,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T23:26:35Z",
+            "last_commit": "2026-08-24T14:08:56Z",
             "owner": "webpack",
             "repo": "sass-loader",
             "stars": 3891
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:32:37.290Z",
+    "last_updated": "2026-08-24T14:10:08.865Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

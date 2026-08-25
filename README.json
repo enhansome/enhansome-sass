@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-22T03:57:33Z",
+            "last_commit": "2026-08-24T20:35:07Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174640
+            "stars": 174646
           }
         },
         {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5557
+                "stars": 5558
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2017-09-01T15:36:26Z",
                 "owner": "heygrady",
                 "repo": "scss-blend-modes",
-                "stars": 814
+                "stars": 813
               }
             },
             {
@@ -433,7 +433,7 @@
                 "last_commit": "2023-07-21T14:43:05Z",
                 "owner": "davidkpiano",
                 "repo": "sassdash",
-                "stars": 390
+                "stars": 391
               }
             },
             {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8458
+            "stars": 8457
           }
         },
         {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 72474275,
             "language": "Dart",
-            "last_commit": "2026-08-20T22:25:30Z",
+            "last_commit": "2026-08-25T02:44:12Z",
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4216
@@ -615,7 +615,7 @@
             "last_commit": "2024-01-16T23:59:53Z",
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3677
+            "stars": 3678
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:53:08.462Z",
+    "last_updated": "2026-08-25T05:59:06.342Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

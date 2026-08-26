@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-24T20:35:07Z",
+            "last_commit": "2026-08-25T19:48:08Z",
             "owner": "twbs",
             "repo": "bootstrap",
             "stars": 174648
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50055
+            "stars": 50059
           }
         },
         {
@@ -187,7 +187,7 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5559
+                "stars": 5560
               }
             },
             {
@@ -418,7 +418,7 @@
                 "last_commit": "2022-02-07T17:13:36Z",
                 "owner": "RamseyInHouse",
                 "repo": "scut",
-                "stars": 756
+                "stars": 755
               }
             },
             {
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 72474275,
             "language": "Dart",
-            "last_commit": "2026-08-25T02:44:12Z",
+            "last_commit": "2026-08-25T20:14:28Z",
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4216
@@ -615,7 +615,7 @@
             "last_commit": "2024-01-16T23:59:53Z",
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3678
+            "stars": 3679
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:55:33.391Z",
+    "last_updated": "2026-08-26T14:54:37.992Z",
     "original_repository": "Famolus/awesome-sass",
     "original_repository_id": 68947937,
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",

@@ -12,10 +12,10 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-25T19:48:08Z",
+            "last_commit": "2026-08-27T18:22:57Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174661
+            "stars": 174664
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50061
+            "stars": 50063
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-01-21T22:11:53Z",
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29785
+            "stars": 29786
           }
         },
         {
@@ -698,7 +698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:00:49.543Z",
+    "last_updated": "2026-08-27T23:44:37.842Z",
     "original_repository_info": {
       "archived": false,
       "id": 68947937,

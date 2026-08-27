@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T19:48:08Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174648
+            "stars": 174661
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-03-01T20:13:02Z",
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50059
+            "stars": 50061
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8457
+            "stars": 8458
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-24T14:14:26Z",
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3891
+            "stars": 3893
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2020-10-01T19:31:05Z",
             "owner": "rails",
             "repo": "sass-rails",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -698,9 +698,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:54:37.992Z",
-    "original_repository": "Famolus/awesome-sass",
-    "original_repository_id": 68947937,
+    "last_updated": "2026-08-27T12:00:49.543Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 68947937,
+      "language": null,
+      "last_commit": "2023-10-16T15:11:54Z",
+      "owner": "Famolus",
+      "repo": "awesome-sass",
+      "stars": 1903
+    },
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
     "enhanced_repository": "enhansome/enhansome-sass",
     "enhanced_repository_description": null,

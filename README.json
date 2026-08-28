@@ -12,11 +12,12 @@
             "archived": false,
             "id": 2126244,
             "language": "MDX",
-            "last_commit": "2026-08-27T18:22:57Z",
+            "last_commit": "2026-08-28T19:30:38Z",
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174664
-          }
+            "stars": 174667
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "jgthms",
             "repo": "bulma",
             "stars": 50063
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "foundation",
             "repo": "foundation-sites",
             "stars": 29786
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "twbs",
             "repo": "bootstrap-sass",
             "stars": 12498
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-10T04:34:23Z",
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1431
-          }
+            "stars": 1430
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         }
       ],
       "title": "Frameworks"
@@ -99,7 +104,8 @@
                 "owner": "oddbird",
                 "repo": "susy",
                 "stars": 3819
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "mojotech",
                 "repo": "jeet",
                 "stars": 2954
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -136,7 +143,8 @@
                 "owner": "at-import",
                 "repo": "breakpoint",
                 "stars": 2080
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -151,7 +159,8 @@
                 "owner": "sass-mq",
                 "repo": "sass-mq",
                 "stars": 1987
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -166,7 +175,8 @@
                 "owner": "Dan503",
                 "repo": "mq-scss",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -187,8 +197,9 @@
                 "last_commit": "2023-12-10T16:29:40Z",
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5560
-              }
+                "stars": 5559
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "heygrady",
                 "repo": "scss-blend-modes",
                 "stars": 813
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "xi",
                 "repo": "sass-planifolia",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -240,7 +253,8 @@
                 "owner": "zellwk",
                 "repo": "typi",
                 "stars": 854
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "hiulit",
                 "repo": "Sassy-Gridlover",
                 "stars": 221
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -277,7 +292,8 @@
                 "owner": "geoffgraham",
                 "repo": "animate.scss",
                 "stars": 657
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -292,7 +308,8 @@
                 "owner": "jorenvanhee",
                 "repo": "sass-burger",
                 "stars": 644
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -314,7 +331,8 @@
                 "owner": "alexwolfe",
                 "repo": "Buttons",
                 "stars": 4996
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -329,7 +347,8 @@
                 "owner": "strues",
                 "repo": "retinajs",
                 "stars": 4379
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -344,7 +363,8 @@
                 "owner": "modularscale",
                 "repo": "modularscale-sass",
                 "stars": 1959
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -359,7 +379,8 @@
                 "owner": "lokesh-coder",
                 "repo": "pretty-checkbox",
                 "stars": 1803
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -374,7 +395,8 @@
                 "owner": "JohnAlbin",
                 "repo": "normalize-scss",
                 "stars": 1422
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -389,7 +411,8 @@
                 "owner": "mastastealth",
                 "repo": "sass-flex-mixin",
                 "stars": 1108
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "josephfusco",
                 "repo": "angled-edges",
                 "stars": 948
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -419,7 +443,8 @@
                 "owner": "RamseyInHouse",
                 "repo": "scut",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -434,7 +459,8 @@
                 "owner": "davidkpiano",
                 "repo": "sassdash",
                 "stars": 391
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -449,7 +475,8 @@
                 "owner": "salesforce-ux",
                 "repo": "sass-deprecate",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             },
             {
               "node_type": "item",
@@ -464,7 +491,8 @@
                 "owner": "hsnaydd",
                 "repo": "buttono",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T23:31:18.621Z"
             }
           ],
           "description": null,
@@ -490,7 +518,8 @@
             "owner": "airbnb",
             "repo": "css",
             "stars": 6974
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -505,7 +534,8 @@
             "owner": "dropbox",
             "repo": "css-style-guide",
             "stars": 1215
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -520,7 +550,8 @@
             "owner": "bigcommerce",
             "repo": "sass-style-guide",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         }
       ],
       "title": "Style Guides"
@@ -541,7 +572,8 @@
             "owner": "sass",
             "repo": "node-sass",
             "stars": 8458
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -555,8 +587,9 @@
             "last_commit": "2023-10-02T12:33:45Z",
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5385
-          }
+            "stars": 5384
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -571,7 +604,8 @@
             "owner": "sass",
             "repo": "libsass",
             "stars": 4325
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -586,7 +620,8 @@
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4216
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -601,7 +636,8 @@
             "owner": "webpack",
             "repo": "sass-loader",
             "stars": 3893
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -616,7 +652,8 @@
             "owner": "sds",
             "repo": "scss-lint",
             "stars": 3679
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -631,7 +668,8 @@
             "owner": "rails",
             "repo": "sass-rails",
             "stars": 860
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -646,7 +684,8 @@
             "owner": "sass",
             "repo": "libsass-python",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -661,7 +700,8 @@
             "owner": "maoberlehner",
             "repo": "node-sass-magic-importer",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -676,7 +716,8 @@
             "owner": "jgranstrom",
             "repo": "sass-extract",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         },
         {
           "node_type": "item",
@@ -691,14 +732,15 @@
             "owner": "xoofx",
             "repo": "SharpScss",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T23:31:18.621Z"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:44:37.842Z",
+    "last_updated": "2026-08-28T23:31:18.621Z",
     "original_repository_info": {
       "archived": false,
       "id": 68947937,

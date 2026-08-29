@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "homepage": "https://getbootstrap.com",
             "id": 2126244,
             "language": "MDX",
+            "license": "MIT",
             "last_commit": "2026-08-28T19:30:38Z",
+            "open_issues": 224,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174667
+            "stars": 174668,
+            "topics": [
+              "bootstrap",
+              "css",
+              "css-framework",
+              "html",
+              "javascript",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -26,12 +39,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modern CSS framework based on Flexbox",
+            "homepage": "https://bulma.io",
             "id": 50264296,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-03-01T20:13:02Z",
+            "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50063
+            "stars": 50063,
+            "topics": [
+              "css",
+              "css-framework",
+              "design",
+              "flexbox",
+              "html"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -42,12 +66,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
+            "homepage": "https://get.foundation",
             "id": 2573058,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-01-21T22:11:53Z",
+            "open_issues": 80,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29786
+            "stars": 29786,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -58,12 +87,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Sass port of Bootstrap 2 and 3.",
+            "homepage": "http://getbootstrap.com/css/#sass",
             "id": 2336578,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-01-03T08:04:35Z",
+            "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12498
+            "stars": 12498,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -74,12 +108,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":cloud: The SCSS framework for the modern web.",
+            "homepage": "https://www.cirrus-ui.com/",
             "id": 77105582,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-10T04:34:23Z",
+            "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1430
+            "stars": 1430,
+            "topics": [
+              "card",
+              "cirrus",
+              "css",
+              "css-framework",
+              "css-grid",
+              "css3",
+              "flexbox",
+              "font",
+              "front-end",
+              "responsive",
+              "sass",
+              "sass-framework",
+              "scss",
+              "scss-framework",
+              "stylesheet",
+              "stylesheets",
+              "ui",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         }
@@ -98,12 +156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-grid responsive layout toolkit for Sass, now deprecated",
+                "homepage": "http://oddbird.net/susy/",
                 "id": 250144,
                 "language": "SCSS",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-04-16T18:19:02Z",
+                "open_issues": 24,
                 "owner": "oddbird",
                 "repo": "susy",
-                "stars": 3819
+                "stars": 3819,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -114,12 +177,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The most advanced, yet intuitive, grid system available for Sass or Stylus",
+                "homepage": "http://jeet.gs",
                 "id": 7119300,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2025-09-29T14:18:39Z",
+                "open_issues": 12,
                 "owner": "mojotech",
                 "repo": "jeet",
-                "stars": 2954
+                "stars": 2954,
+                "topics": [
+                  "grid",
+                  "sass",
+                  "stylus"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -137,12 +209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Really simple media queries in Sass",
+                "homepage": null,
                 "id": 4415704,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-01-19T01:15:04Z",
+                "open_issues": 29,
                 "owner": "at-import",
                 "repo": "breakpoint",
-                "stars": 2080
+                "stars": 2080,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -153,12 +230,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Sass mixin that helps you compose media queries in an elegant way.",
+                "homepage": "https://sass-mq.github.io/sass-mq",
                 "id": 11683141,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2026-07-30T17:00:52Z",
+                "open_issues": 0,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
-                "stars": 1987
+                "stars": 1987,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -169,12 +251,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extremely powerful Sass media query mixin. Allows you to create almost any media query you can imagine.",
+                "homepage": "https://dan503.github.io/mq-scss/",
                 "id": 73259375,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2019-05-17T11:43:38Z",
+                "open_issues": 0,
                 "owner": "Dan503",
                 "repo": "mq-scss",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "aspect-ratio",
+                  "breakpoint",
+                  "breakpoints",
+                  "device-ratio",
+                  "media",
+                  "media-queries",
+                  "mixin",
+                  "mixins",
+                  "mq-scss",
+                  "mq-variable",
+                  "query",
+                  "ratio",
+                  "responsive",
+                  "sass",
+                  "scss",
+                  "scss-mixins"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -192,12 +296,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Color scheme for UI design.",
+                "homepage": "https://yeun.github.io/open-color/",
                 "id": 65090756,
                 "language": "Handlebars",
+                "license": "MIT",
                 "last_commit": "2023-12-10T16:29:40Z",
+                "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5559
+                "stars": 5559,
+                "topics": [
+                  "adobe-library",
+                  "color",
+                  "color-scheme",
+                  "scss",
+                  "stylus",
+                  "swatches"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -208,12 +324,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using standard color blending functions in SASS.",
+                "homepage": null,
                 "id": 3051005,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2017-09-01T15:36:26Z",
+                "open_issues": 4,
                 "owner": "heygrady",
                 "repo": "scss-blend-modes",
-                "stars": 813
+                "stars": 813,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -224,12 +345,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vanilla Sass helper functions",
+                "homepage": "https://xi.github.io/sass-planifolia/",
                 "id": 53062737,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-07-15T04:45:06Z",
+                "open_issues": 0,
                 "owner": "xi",
                 "repo": "sass-planifolia",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "a11y",
+                  "color",
+                  "contrast",
+                  "math",
+                  "sass"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -247,12 +379,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sass mixin to make responsive typography easy",
+                "homepage": null,
                 "id": 47498928,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2022-12-09T17:02:05Z",
+                "open_issues": 8,
                 "owner": "zellwk",
                 "repo": "typi",
-                "stars": 854
+                "stars": 854,
+                "topics": [
+                  "sass",
+                  "typography"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -263,12 +403,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.",
+                "homepage": "https://hiulit.github.io/Sassy-Gridlover/sassdoc/",
                 "id": 23586697,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2019-04-01T12:09:20Z",
+                "open_issues": 2,
                 "owner": "hiulit",
                 "repo": "Sassy-Gridlover",
-                "stars": 221
+                "stars": 221,
+                "topics": [
+                  "gridlover",
+                  "modular-scale",
+                  "sass",
+                  "sass-mixins",
+                  "typography",
+                  "vertical-rhythm"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -286,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sass mixins based on Dan Eden's Animate.css",
+                "homepage": null,
                 "id": 15913196,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2025-03-21T17:16:30Z",
+                "open_issues": 9,
                 "owner": "geoffgraham",
                 "repo": "animate.scss",
-                "stars": 657
+                "stars": 657,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -302,12 +459,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Sass mixin for creating hamburger icons.",
+                "homepage": "http://joren.co/sass-burger/",
                 "id": 18269963,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2021-09-29T22:04:35Z",
+                "open_issues": 1,
                 "owner": "jorenvanhee",
                 "repo": "sass-burger",
-                "stars": 644
+                "stars": 644,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -325,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A CSS button library built using Sass and Compass",
+                "homepage": "http://unicorn-ui.com/buttons/builder/",
                 "id": 7744300,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-10T22:18:55Z",
+                "open_issues": 17,
                 "owner": "alexwolfe",
                 "repo": "Buttons",
-                "stars": 4996
+                "stars": 4996,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -341,12 +508,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants",
+                "homepage": "http://retinajs.com",
                 "id": 3932983,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-14T05:58:04Z",
+                "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4379
+                "stars": 4379,
+                "topics": [
+                  "dpi",
+                  "image",
+                  "javascript",
+                  "retina"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -357,12 +534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular scale calculator built into your Sass",
+                "homepage": "http://www.modularscale.com",
                 "id": 2168885,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-11-29T19:40:50Z",
+                "open_issues": 18,
                 "owner": "modularscale",
                 "repo": "modularscale-sass",
-                "stars": 1959
+                "stars": 1959,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -373,12 +555,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pure CSS library to beautify checkbox and radio buttons.",
+                "homepage": "https://lokesh-coder.github.io/pretty-checkbox/",
                 "id": 63314756,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2020-10-14T16:34:51Z",
+                "open_issues": 57,
                 "owner": "lokesh-coder",
                 "repo": "pretty-checkbox",
-                "stars": 1803
+                "stars": 1803,
+                "topics": [
+                  "animation",
+                  "bootstrap",
+                  "checkbox",
+                  "css",
+                  "html",
+                  "icons",
+                  "radio-buttons",
+                  "react",
+                  "scss"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -389,12 +586,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Sass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.",
+                "homepage": "https://github.com/JohnAlbin/normalize-scss#latest-versions",
                 "id": 3421205,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2023-11-11T07:45:21Z",
+                "open_issues": 2,
                 "owner": "JohnAlbin",
                 "repo": "normalize-scss",
-                "stars": 1422
+                "stars": 1422,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -405,12 +607,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flexbox mixins",
+                "homepage": null,
                 "id": 9572016,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2018-01-16T03:14:51Z",
+                "open_issues": 4,
                 "owner": "mastastealth",
                 "repo": "sass-flex-mixin",
-                "stars": 1108
+                "stars": 1108,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -421,12 +628,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":triangular_ruler: Quickly create angled section edges using only Sass",
+                "homepage": "https://angled-edges.josephfus.co",
                 "id": 61045868,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2019-01-04T12:59:49Z",
+                "open_issues": 1,
                 "owner": "josephfusco",
                 "repo": "angled-edges",
-                "stars": 948
+                "stars": 948,
+                "topics": [
+                  "angled",
+                  "css",
+                  "edges",
+                  "fluid-width",
+                  "mixins",
+                  "sass",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -437,12 +657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sass utilities for the frontend laborer.",
+                "homepage": "https://ramseyinhouse.github.io/scut/",
                 "id": 12675021,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2022-02-07T17:13:36Z",
+                "open_issues": 0,
                 "owner": "RamseyInHouse",
                 "repo": "scut",
-                "stars": 755
+                "stars": 755,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -453,12 +678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Sass implementation of lodash.",
+                "homepage": "http://davidkpiano.github.io/sassdash",
                 "id": 29259882,
                 "language": "SCSS",
+                "license": null,
                 "last_commit": "2023-07-21T14:43:05Z",
+                "open_issues": 7,
                 "owner": "davidkpiano",
                 "repo": "sassdash",
-                "stars": 391
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -469,12 +699,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Let Sass warn you about the pieces of your UI that are deprecated, providing a clear upgrade path for developers",
+                "homepage": "https://salesforce-ux.github.io/sass-deprecate/",
                 "id": 45504918,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-10-12T08:27:55Z",
+                "open_issues": 0,
                 "owner": "salesforce-ux",
                 "repo": "sass-deprecate",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "sass",
+                  "sass-mixins",
+                  "scss",
+                  "scss-mixins"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             },
@@ -485,12 +725,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible Sass mixin for creating BEM-style buttons.",
+                "homepage": "https://hsnaydd.github.io/buttono",
                 "id": 121897994,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2026-02-02T23:54:48Z",
+                "open_issues": 9,
                 "owner": "hsnaydd",
                 "repo": "buttono",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "bem",
+                  "button",
+                  "css",
+                  "front-end",
+                  "frontend",
+                  "mixins",
+                  "sass",
+                  "sass-mixins",
+                  "scss",
+                  "scss-mixins"
+                ]
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
             }
@@ -512,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A mostly reasonable approach to CSS and Sass.",
+            "homepage": null,
             "id": 38265709,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-04T00:44:40Z",
+            "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6974
+            "stars": 6974,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -528,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dropbox’s (S)CSS authoring style guide",
+            "homepage": null,
             "id": 44996791,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2019-11-08T08:25:39Z",
+            "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1215
+            "stars": 1215,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -544,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sass coding guidelines for BigCommerce themes",
+            "homepage": null,
             "id": 45710731,
             "language": "CSS",
+            "license": null,
             "last_commit": "2017-05-23T04:46:43Z",
+            "open_issues": 1,
             "owner": "bigcommerce",
             "repo": "sass-style-guide",
-            "stars": 279
+            "stars": 279,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         }
@@ -566,12 +837,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":rainbow: Node.js bindings to libsass",
+            "homepage": "https://npmjs.org/package/node-sass",
             "id": 4128353,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-07-24T21:59:31Z",
+            "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8458
+            "stars": 8457,
+            "topics": [
+              "libsass",
+              "node-sass",
+              "sass-files",
+              "scss",
+              "scss-files"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -582,12 +864,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OctoLinker — Links together, what belongs together",
+            "homepage": "https://octolinker.vercel.app",
             "id": 15479087,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-10-02T12:33:45Z",
+            "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384
+            "stars": 5384,
+            "topics": [
+              "browser-extension",
+              "github",
+              "github-extension",
+              "octolinker",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -598,12 +891,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A C/C++ implementation of a Sass compiler",
+            "homepage": "https://sass-lang.com/libsass",
             "id": 3319769,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-24T22:58:42Z",
+            "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4325
+            "stars": 4325,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -614,12 +912,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The reference implementation of Sass, written in Dart.",
+            "homepage": "https://sass-lang.com/dart-sass",
             "id": 72474275,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:14:28Z",
+            "open_issues": 71,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4216
+            "stars": 4216,
+            "topics": [
+              "css-preprocessor",
+              "dart",
+              "dart-sass",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -630,12 +938,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Sass to CSS",
+            "homepage": null,
             "id": 16665655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:14:26Z",
+            "open_issues": 3,
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3893
+            "stars": 3893,
+            "topics": [
+              "dart-sass",
+              "loader",
+              "node-sass",
+              "sass",
+              "scss",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -646,12 +967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configurable tool for writing clean, consistent SCSS",
+            "homepage": null,
             "id": 7228264,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-01-16T23:59:53Z",
+            "open_issues": 67,
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3679
+            "stars": 3679,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -662,12 +988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ruby on Rails stylesheet engine for Sass",
+            "homepage": null,
             "id": 1795273,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2020-10-01T19:31:05Z",
+            "open_issues": 10,
             "owner": "rails",
             "repo": "sass-rails",
-            "stars": 860
+            "stars": 860,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -678,12 +1009,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A straightforward binding of libsass for Python.  Compile Sass/SCSS in Python with no Ruby stack at all!",
+            "homepage": "https://sass.github.io/libsass-python/",
             "id": 5433677,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-24T23:04:09Z",
+            "open_issues": 10,
             "owner": "sass",
             "repo": "libsass-python",
-            "stars": 570
+            "stars": 570,
+            "topics": [
+              "python",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -694,12 +1034,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom node-sass importer for selector specific imports, module importing, globbing support and importing files only once.",
+            "homepage": null,
             "id": 59661735,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-10-16T19:50:38Z",
+            "open_issues": 36,
             "owner": "maoberlehner",
             "repo": "node-sass-magic-importer",
-            "stars": 294
+            "stars": 294,
+            "topics": [
+              "css",
+              "hacktoberfest",
+              "node-filtering",
+              "node-sass",
+              "node-sass-custom-importer",
+              "sass",
+              "selector-filtering"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -710,12 +1063,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract structured variables from sass files",
+            "homepage": null,
             "id": 80216790,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-04T17:36:55Z",
+            "open_issues": 10,
             "owner": "jgranstrom",
             "repo": "sass-extract",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "css",
+              "extract",
+              "extracted-variables",
+              "javascript",
+              "node-sass",
+              "sass",
+              "sass-extract",
+              "scss",
+              "variables",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -726,12 +1095,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A portable cross-platform pinvoke .NET wrapper around libsass to convert SCSS to CSS",
+            "homepage": null,
             "id": 55464652,
             "language": "C#",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-11-02T10:50:46Z",
+            "open_issues": 0,
             "owner": "xoofx",
             "repo": "SharpScss",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "css",
+              "dotnet",
+              "dotnet-core",
+              "dotnet-standard",
+              "libsass",
+              "sass",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         }
@@ -740,15 +1122,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:18.621Z",
+    "last_updated": "2026-08-29T04:26:18.096Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
+      "homepage": null,
       "id": 68947937,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2023-10-16T15:11:54Z",
+      "open_issues": 9,
       "owner": "Famolus",
       "repo": "awesome-sass",
-      "stars": 1903
+      "stars": 1902,
+      "topics": [
+        "css",
+        "sass",
+        "scss"
+      ]
     },
     "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
     "enhanced_repository": "enhansome/enhansome-sass",

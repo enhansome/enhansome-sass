@@ -52,7 +52,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,667 | 🐛 224 | 🌐 MDX | 📅 2026-08-28 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,668 | 🐛 224 | 🌐 MDX | 📅 2026-08-28 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 * [Bulma](https://github.com/jgthms/bulma) ⭐ 50,063 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
 * [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,786 | 🐛 80 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,498 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
@@ -202,4 +202,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

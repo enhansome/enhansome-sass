@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-08-28T19:30:38Z",
-            "open_issues": 224,
+            "last_commit": "2026-08-29T07:59:32Z",
+            "open_issues": 228,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174668,
+            "stars": 174671,
             "topics": [
               "bootstrap",
               "css",
@@ -943,8 +943,8 @@
             "id": 16665655,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-24T14:14:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-29T13:38:28Z",
+            "open_issues": 4,
             "owner": "webpack",
             "repo": "sass-loader",
             "stars": 3893,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:18.096Z",
+    "last_updated": "2026-08-29T17:39:58.839Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

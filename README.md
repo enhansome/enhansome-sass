@@ -52,10 +52,10 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,678 | 🐛 227 | 🌐 MDX | 📅 2026-08-29 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,065 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,684 | 🐛 228 | 🌐 MDX | 📅 2026-08-31 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,066 | 🐛 527 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
 * [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,784 | 🐛 80 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,497 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
+* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,496 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,430 | 🐛 29 | 🌐 SCSS | 📅 2026-08-10 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
@@ -134,8 +134,8 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Style Guides
 
-* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,976 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
-* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,215 | 🐛 5 | 📅 2019-11-08 - Dropbox’s (S)CSS authoring style guide.
+* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,974 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,213 | 🐛 5 | 📅 2019-11-08 - Dropbox’s (S)CSS authoring style guide.
 * [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) ⭐ 279 | 🐛 1 | 🌐 CSS | 📅 2017-05-23 - Guidelines in use at BigCommerce.
 * [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
 
@@ -202,4 +202,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

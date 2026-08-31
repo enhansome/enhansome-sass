@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-08-29T21:59:10Z",
-            "open_issues": 227,
+            "last_commit": "2026-08-31T19:03:33Z",
+            "open_issues": 228,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174678,
+            "stars": 174684,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50065,
+            "stars": 50066,
             "topics": [
               "css",
               "css-framework",
@@ -96,7 +96,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12497,
+            "stars": 12496,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -777,7 +777,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6976,
+            "stars": 6974,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -798,7 +798,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1215,
+            "stars": 1213,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:02:16.783Z",
+    "last_updated": "2026-08-31T19:57:24.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

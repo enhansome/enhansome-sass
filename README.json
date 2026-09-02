@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-01T17:43:44Z",
+            "last_commit": "2026-09-01T19:23:24Z",
             "open_issues": 231,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174687,
+            "stars": 174706,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50064,
+            "stars": 50061,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 80,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29783,
+            "stars": 29782,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -846,7 +846,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8456,
+            "stars": 8455,
             "topics": [
               "libsass",
               "node-sass",
@@ -917,11 +917,11 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-01T02:44:00Z",
-            "open_issues": 74,
+            "last_commit": "2026-09-01T20:04:22Z",
+            "open_issues": 79,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4217,
+            "stars": 4218,
             "topics": [
               "css-preprocessor",
               "dart",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:47:06.227Z",
+    "last_updated": "2026-09-02T17:50:28.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

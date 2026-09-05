@@ -19,7 +19,7 @@
             "open_issues": 231,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174716,
+            "stars": 174722,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 528,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50057,
+            "stars": 50058,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 80,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29785,
+            "stars": 29784,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -305,7 +305,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5561,
+                "stars": 5560,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -333,7 +333,7 @@
                 "open_issues": 4,
                 "owner": "heygrady",
                 "repo": "scss-blend-modes",
-                "stars": 813,
+                "stars": 812,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -517,7 +517,7 @@
                 "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4379,
+                "stars": 4377,
                 "topics": [
                   "dpi",
                   "image",
@@ -777,7 +777,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6968,
+            "stars": 6969,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -846,7 +846,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8453,
+            "stars": 8454,
             "topics": [
               "libsass",
               "node-sass",
@@ -900,7 +900,7 @@
             "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4325,
+            "stars": 4326,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:33:30.731Z",
+    "last_updated": "2026-09-05T16:44:46.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

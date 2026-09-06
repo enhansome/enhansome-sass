@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:23:24Z",
-            "open_issues": 231,
+            "last_commit": "2026-09-06T05:49:50Z",
+            "open_issues": 233,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174722,
+            "stars": 174725,
             "topics": [
               "bootstrap",
               "css",
@@ -45,10 +45,10 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-03-01T20:13:02Z",
-            "open_issues": 528,
+            "open_issues": 529,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50058,
+            "stars": 50060,
             "topics": [
               "css",
               "css-framework",
@@ -72,10 +72,10 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2025-01-21T22:11:53Z",
-            "open_issues": 80,
+            "open_issues": 81,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29784,
+            "stars": 29783,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -235,8 +235,8 @@
                 "id": 11683141,
                 "language": "SCSS",
                 "license": "MIT",
-                "last_commit": "2026-07-30T17:00:52Z",
-                "open_issues": 0,
+                "last_commit": "2026-09-06T04:15:01Z",
+                "open_issues": 1,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
                 "stars": 1987,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T16:44:46.862Z",
+    "last_updated": "2026-09-06T16:54:10.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

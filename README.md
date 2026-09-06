@@ -52,9 +52,9 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,722 | 🐛 231 | 🌐 MDX | 📅 2026-09-01 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,058 | 🐛 528 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,784 | 🐛 80 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,725 | 🐛 233 | 🌐 MDX | 📅 2026-09-06 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,060 | 🐛 529 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,783 | 🐛 81 | 🌐 HTML | 📅 2025-01-21 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,496 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,430 | 🐛 29 | 🌐 SCSS | 📅 2026-08-10 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
@@ -85,7 +85,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ### Media Queries
 
 * [Breakpoint](https://github.com/at-import/breakpoint) ⭐ 2,080 | 🐛 29 | 🌐 CSS | 📅 2025-01-19 - Breakpoint makes writing media queries in Sass super simple.
-* [Sass MQ](https://github.com/sass-mq/sass-mq) ⭐ 1,987 | 🐛 0 | 🌐 SCSS | 📅 2026-07-30 - Sass mixin that helps you compose media queries in an elegant way.
+* [Sass MQ](https://github.com/sass-mq/sass-mq) ⭐ 1,987 | 🐛 1 | 🌐 SCSS | 📅 2026-09-06 - Sass mixin that helps you compose media queries in an elegant way.
 * [mq-scss](https://github.com/Dan503/mq-scss) ⭐ 126 | 🐛 0 | 🌐 CSS | 📅 2019-05-17 - An extreamly powerful but easy to use Sass media query mixin.
 * [include-media](https://eduardoboucas.github.io/include-media/) - Simple, elegant and maintainable media queries.
 * [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - Collection of useful media queries mixins for Sass (including iOS devices, TVs and more).
@@ -202,4 +202,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

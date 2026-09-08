@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-06T05:49:50Z",
+            "last_commit": "2026-09-08T09:07:54Z",
             "open_issues": 235,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174738,
+            "stars": 174750,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 529,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50060,
+            "stars": 50061,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29783,
+            "stars": 29782,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -305,7 +305,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5560,
+                "stars": 5561,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -496,7 +496,7 @@
                 "open_issues": 17,
                 "owner": "alexwolfe",
                 "repo": "Buttons",
-                "stars": 4996,
+                "stars": 4995,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -777,7 +777,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6969,
+            "stars": 6970,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -798,7 +798,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1213,
+            "stars": 1211,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -917,8 +917,8 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-04T06:19:45Z",
-            "open_issues": 72,
+            "last_commit": "2026-09-08T02:45:08Z",
+            "open_issues": 71,
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4219,
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:41:50.903Z",
+    "last_updated": "2026-09-08T17:52:23.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
@@ -1130,18 +1130,18 @@
       "id": 68947937,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2023-10-16T15:11:54Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-08T05:04:03Z",
+      "open_issues": 8,
       "owner": "Famolus",
       "repo": "awesome-sass",
-      "stars": 1901,
+      "stars": 1902,
       "topics": [
         "css",
         "sass",
         "scss"
       ]
     },
-    "original_repository_sha": "c3ed9db19967b7e263edcdb9c8f3731b27285399",
+    "original_repository_sha": "8d518f1bc93f5b1b0c3a741e4dd753069e74d3e4",
     "enhanced_repository": "enhansome/enhansome-sass",
     "enhanced_repository_description": null,
     "title": "Awesome Sass with stars"

@@ -19,7 +19,7 @@
             "open_issues": 233,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174755,
+            "stars": 174762,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 529,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50061,
+            "stars": 50060,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "foundation-sites",
-            "stars": 29783,
+            "stars": 29784,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -873,7 +873,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5384,
+            "stars": 5385,
             "topics": [
               "browser-extension",
               "github",
@@ -917,11 +917,11 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-10T01:35:59Z",
-            "open_issues": 70,
+            "last_commit": "2026-09-11T01:12:03Z",
+            "open_issues": 68,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4218,
+            "stars": 4219,
             "topics": [
               "css-preprocessor",
               "dart",
@@ -943,7 +943,7 @@
             "id": 16665655,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T07:44:34Z",
+            "last_commit": "2026-09-11T10:38:00Z",
             "open_issues": 5,
             "owner": "webpack",
             "repo": "sass-loader",
@@ -1122,7 +1122,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T17:38:46.579Z",
+    "last_updated": "2026-09-11T17:42:45.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

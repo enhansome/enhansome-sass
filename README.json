@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-12T16:44:39Z",
-            "open_issues": 236,
+            "last_commit": "2026-09-13T14:48:04Z",
+            "open_issues": 233,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174765,
+            "stars": 174777,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 529,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50059,
+            "stars": 50060,
             "topics": [
               "css",
               "css-framework",
@@ -66,17 +66,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.",
-            "homepage": "https://get.foundation",
+            "description": "A CSS-first, native, zero-build layout and styling framework for web designers.",
+            "homepage": "https://foundationcss.com",
             "id": 2573058,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2025-01-21T22:11:53Z",
-            "open_issues": 81,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-13T03:07:10Z",
+            "open_issues": 82,
             "owner": "foundation",
-            "repo": "foundation-sites",
-            "stars": 29784,
-            "topics": []
+            "repo": "yeti",
+            "stars": 29789,
+            "topics": [
+              "css",
+              "foundation",
+              "html",
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
         },
@@ -305,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5563,
+                "stars": 5564,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -1122,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T16:58:06.204Z",
+    "last_updated": "2026-09-13T17:22:41.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

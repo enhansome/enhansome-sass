@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-13T20:12:49Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-15T11:10:39Z",
+            "open_issues": 236,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174795,
+            "stars": 174807,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 529,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50055,
+            "stars": 50058,
             "topics": [
               "css",
               "css-framework",
@@ -71,11 +71,11 @@
             "id": 2573058,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-14T05:10:58Z",
+            "last_commit": "2026-09-15T15:56:45Z",
             "open_issues": 82,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29788,
+            "stars": 29789,
             "topics": [
               "css",
               "foundation",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12494,
+            "stars": 12495,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -170,7 +170,7 @@
                 "open_issues": 24,
                 "owner": "oddbird",
                 "repo": "susy",
-                "stars": 3818,
+                "stars": 3819,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -244,7 +244,7 @@
                 "open_issues": 3,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
-                "stars": 1987,
+                "stars": 1986,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -922,11 +922,11 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-14T19:11:29Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-15T10:46:10Z",
+            "open_issues": 69,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4219,
+            "stars": 4220,
             "topics": [
               "css-preprocessor",
               "dart",
@@ -981,7 +981,7 @@
             "open_issues": 67,
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3680,
+            "stars": 3681,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T19:15:25.652Z",
+    "last_updated": "2026-09-15T18:06:34.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

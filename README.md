@@ -52,10 +52,10 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,844 | 🐛 237 | 🌐 MDX | 📅 2026-09-15 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,849 | 🐛 238 | 🌐 MDX | 📅 2026-09-15 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 * [Bulma](https://github.com/jgthms/bulma) ⭐ 50,056 | 🐛 530 | 🌐 CSS | 📅 2026-03-01 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,791 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-18 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,494 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,790 | 🐛 82 | 🌐 JavaScript | 📅 2026-09-18 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,495 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,429 | 🐛 29 | 🌐 SCSS | 📅 2026-08-10 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
@@ -92,7 +92,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Color
 
-* [Open color](https://github.com/yeun/open-color) ⭐ 5,564 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+* [Open color](https://github.com/yeun/open-color) ⭐ 5,565 | 🐛 26 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) ⭐ 812 | 🐛 4 | 🌐 CSS | 📅 2017-09-01 - Using standard color blending functions in Sass.
 * [sass-planifolia](https://github.com/xi/sass-planifolia) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-15 - Advanced color manipulation and contrast calculation in vanilla Sass.
 
@@ -120,7 +120,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [normalize-scss](https://github.com/JohnAlbin/normalize-scss) ⭐ 1,421 | 🐛 2 | 🌐 SCSS | 📅 2023-11-11 -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 * [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) ⭐ 1,107 | 🐛 4 | 🌐 CSS | 📅 2018-01-16 - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 * [Angled Edges](https://github.com/josephfusco/angled-edges) ⭐ 946 | 🐛 1 | 🌐 CSS | 📅 2019-01-04 - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
-* [Scut](https://github.com/davidtheclark/scut) ⭐ 754 | 🐛 0 | 🌐 SCSS | 📅 2022-02-07 - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+* [Scut](https://github.com/davidtheclark/scut) ⭐ 753 | 🐛 0 | 🌐 SCSS | 📅 2022-02-07 - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 * [Sassdash](https://github.com/davidkpiano/sassdash) ⭐ 391 | 🐛 7 | 🌐 SCSS | 📅 2023-07-21 - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 * [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) ⚠️ Archived - Sass mixin that helps managing code deprecation.
 * [Buttono](https://github.com/hsnaydd/buttono) ⭐ 91 | 🐛 9 | 🌐 SCSS | 📅 2026-02-02 - A flexible Sass mixin for creating BEM-style buttons.
@@ -201,4 +201,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._

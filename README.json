@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-22T16:34:53Z",
-            "open_issues": 238,
+            "last_commit": "2026-09-25T18:28:32Z",
+            "open_issues": 232,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174902,
+            "stars": 174911,
             "topics": [
               "bootstrap",
               "css",
@@ -71,11 +71,11 @@
             "id": 2573058,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T04:24:24Z",
+            "last_commit": "2026-09-25T18:02:46Z",
             "open_issues": 82,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29796,
+            "stars": 29793,
             "topics": [
               "css",
               "foundation",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12495,
+            "stars": 12494,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -170,7 +170,7 @@
                 "open_issues": 24,
                 "owner": "oddbird",
                 "repo": "susy",
-                "stars": 3819,
+                "stars": 3818,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -244,7 +244,7 @@
                 "open_issues": 3,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
-                "stars": 1986,
+                "stars": 1985,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5568,
+                "stars": 5570,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -600,7 +600,7 @@
                 "open_issues": 2,
                 "owner": "JohnAlbin",
                 "repo": "normalize-scss",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -671,7 +671,7 @@
                 "open_issues": 0,
                 "owner": "RamseyInHouse",
                 "repo": "scut",
-                "stars": 753,
+                "stars": 752,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -803,7 +803,7 @@
             "open_issues": 5,
             "owner": "dropbox",
             "repo": "css-style-guide",
-            "stars": 1211,
+            "stars": 1210,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -851,7 +851,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8450,
+            "stars": 8449,
             "topics": [
               "libsass",
               "node-sass",
@@ -905,7 +905,7 @@
             "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4323,
+            "stars": 4322,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -922,8 +922,8 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-23T21:36:55Z",
-            "open_issues": 67,
+            "last_commit": "2026-09-24T19:21:14Z",
+            "open_issues": 68,
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4223,
@@ -981,7 +981,7 @@
             "open_issues": 67,
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3681,
+            "stars": 3680,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:23:14.349Z",
+    "last_updated": "2026-09-25T18:29:08.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
@@ -1139,7 +1139,7 @@
       "open_issues": 8,
       "owner": "Famolus",
       "repo": "awesome-sass",
-      "stars": 1902,
+      "stars": 1901,
       "topics": [
         "css",
         "sass",

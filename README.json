@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-25T18:28:32Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-26T05:21:15Z",
+            "open_issues": 228,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174911,
+            "stars": 174922,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50063,
+            "stars": 50062,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29793,
+            "stars": 29798,
             "topics": [
               "css",
               "foundation",
@@ -122,7 +122,7 @@
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1429,
+            "stars": 1430,
             "topics": [
               "card",
               "cirrus",
@@ -926,7 +926,7 @@
             "open_issues": 68,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4223,
+            "stars": 4225,
             "topics": [
               "css-preprocessor",
               "dart",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:29:08.289Z",
+    "last_updated": "2026-09-26T17:43:03.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

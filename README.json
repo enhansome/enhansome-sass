@@ -15,7 +15,7 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-09-27T12:45:02Z",
+            "last_commit": "2026-09-28T16:19:42Z",
             "open_issues": 229,
             "owner": "twbs",
             "repo": "bootstrap",
@@ -75,7 +75,7 @@
             "open_issues": 82,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29799,
+            "stars": 29800,
             "topics": [
               "css",
               "foundation",
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5570,
+                "stars": 5571,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -501,7 +501,7 @@
                 "open_issues": 17,
                 "owner": "alexwolfe",
                 "repo": "Buttons",
-                "stars": 4995,
+                "stars": 4994,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -922,11 +922,11 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-09-24T19:21:14Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-28T19:32:31Z",
+            "open_issues": 69,
             "owner": "sass",
             "repo": "dart-sass",
-            "stars": 4225,
+            "stars": 4223,
             "topics": [
               "css-preprocessor",
               "dart",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:16:37.757Z",
+    "last_updated": "2026-09-28T20:30:18.009Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

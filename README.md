@@ -52,10 +52,10 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,976 | 🐛 229 | 🌐 MDX | 📅 2026-10-01 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,056 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,801 | 🐛 81 | 🌐 JavaScript | 📅 2026-09-25 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,494 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 174,984 | 🐛 229 | 🌐 MDX | 📅 2026-10-01 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,055 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Modern CSS framework based on Flexbox.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,800 | 🐛 81 | 🌐 JavaScript | 📅 2026-09-25 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,493 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,430 | 🐛 28 | 🌐 SCSS | 📅 2026-10-02 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
@@ -105,7 +105,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Animation
 
-* [Animate.scss](https://github.com/geoffgraham/animate.scss) ⭐ 657 | 🐛 9 | 🌐 SCSS | 📅 2025-03-21 -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+* [Animate.scss](https://github.com/geoffgraham/animate.scss) ⭐ 655 | 🐛 9 | 🌐 SCSS | 📅 2025-03-21 -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 * [Sass Burger](https://github.com/jorenvanhee/sass-burger) ⭐ 644 | 🐛 1 | 🌐 CSS | 📅 2021-09-29 - Sass mixin for creating animated hamburger icon.
 * [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 * [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
@@ -201,4 +201,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

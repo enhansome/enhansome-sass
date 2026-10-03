@@ -19,7 +19,7 @@
             "open_issues": 229,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174976,
+            "stars": 174984,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 527,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50056,
+            "stars": 50055,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29801,
+            "stars": 29800,
             "topics": [
               "css",
               "foundation",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12494,
+            "stars": 12493,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -452,7 +452,7 @@
                 "open_issues": 9,
                 "owner": "geoffgraham",
                 "repo": "animate.scss",
-                "stars": 657,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:10:02.147Z",
+    "last_updated": "2026-10-03T05:11:07.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

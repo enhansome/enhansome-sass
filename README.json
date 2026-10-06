@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-06T09:07:44Z",
-            "open_issues": 228,
+            "last_commit": "2026-10-06T18:39:49Z",
+            "open_issues": 222,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174986,
+            "stars": 174987,
             "topics": [
               "bootstrap",
               "css",
@@ -191,7 +191,7 @@
                 "open_issues": 12,
                 "owner": "mojotech",
                 "repo": "jeet",
-                "stars": 2955,
+                "stars": 2954,
                 "topics": [
                   "grid",
                   "sass",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6964,
+            "stars": 6963,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:13.664Z",
+    "last_updated": "2026-10-06T19:26:38.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

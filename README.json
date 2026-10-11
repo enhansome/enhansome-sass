@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-10T17:00:24Z",
-            "open_issues": 229,
+            "last_commit": "2026-10-11T16:15:51Z",
+            "open_issues": 231,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174807,
+            "stars": 174813,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 526,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50043,
+            "stars": 50039,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29798,
+            "stars": 29799,
             "topics": [
               "css",
               "foundation",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6961,
+            "stars": 6960,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5387,
+            "stars": 5388,
             "topics": [
               "browser-extension",
               "github",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T18:27:27.304Z",
+    "last_updated": "2026-10-11T18:47:07.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

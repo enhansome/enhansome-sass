@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-12T19:32:37Z",
-            "open_issues": 238,
+            "last_commit": "2026-10-13T18:14:13Z",
+            "open_issues": 242,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174820,
+            "stars": 174829,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 526,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50037,
+            "stars": 50039,
             "topics": [
               "css",
               "css-framework",
@@ -71,7 +71,7 @@
             "id": 2573058,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T20:46:18Z",
+            "last_commit": "2026-10-13T06:57:29Z",
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12491,
+            "stars": 12492,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6960,
+            "stars": 6959,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -851,7 +851,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8445,
+            "stars": 8446,
             "topics": [
               "libsass",
               "node-sass",
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5387,
+            "stars": 5388,
             "topics": [
               "browser-extension",
               "github",
@@ -905,7 +905,7 @@
             "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4319,
+            "stars": 4320,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -952,7 +952,7 @@
             "open_issues": 9,
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3888,
+            "stars": 3889,
             "topics": [
               "dart-sass",
               "loader",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:04:03.936Z",
+    "last_updated": "2026-10-13T20:11:21.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

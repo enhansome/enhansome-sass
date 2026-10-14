@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-13T18:14:13Z",
+            "last_commit": "2026-10-14T17:18:31Z",
             "open_issues": 242,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174829,
+            "stars": 174833,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 526,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50039,
+            "stars": 50040,
             "topics": [
               "css",
               "css-framework",
@@ -71,11 +71,11 @@
             "id": 2573058,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-13T06:57:29Z",
+            "last_commit": "2026-10-14T01:43:28Z",
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29798,
+            "stars": 29799,
             "topics": [
               "css",
               "foundation",
@@ -244,7 +244,7 @@
                 "open_issues": 3,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5573,
+                "stars": 5575,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -569,7 +569,7 @@
                 "open_issues": 57,
                 "owner": "lokesh-coder",
                 "repo": "pretty-checkbox",
-                "stars": 1803,
+                "stars": 1802,
                 "topics": [
                   "animation",
                   "bootstrap",
@@ -851,7 +851,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8446,
+            "stars": 8444,
             "topics": [
               "libsass",
               "node-sass",
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5388,
+            "stars": 5389,
             "topics": [
               "browser-extension",
               "github",
@@ -905,7 +905,7 @@
             "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4320,
+            "stars": 4319,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -922,8 +922,8 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-05T23:14:30Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-14T13:49:50Z",
+            "open_issues": 72,
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4231,
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:11:21.317Z",
+    "last_updated": "2026-10-14T18:29:52.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

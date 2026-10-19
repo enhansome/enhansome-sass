@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-17T09:05:45Z",
-            "open_issues": 255,
+            "last_commit": "2026-10-19T18:28:35Z",
+            "open_issues": 256,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 174928,
+            "stars": 175024,
             "topics": [
               "bootstrap",
               "css",
@@ -45,10 +45,10 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-09-21T09:56:34Z",
-            "open_issues": 527,
+            "open_issues": 531,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50037,
+            "stars": 50038,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29800,
+            "stars": 29802,
             "topics": [
               "css",
               "foundation",
@@ -118,11 +118,11 @@
             "id": 77105582,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-12T13:21:02Z",
+            "last_commit": "2026-10-19T04:49:05Z",
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1430,
+            "stars": 1431,
             "topics": [
               "card",
               "cirrus",
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5576,
+                "stars": 5579,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -522,7 +522,7 @@
                 "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4378,
+                "stars": 4377,
                 "topics": [
                   "dpi",
                   "image",
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5390,
+            "stars": 5391,
             "topics": [
               "browser-extension",
               "github",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:15:11.712Z",
+    "last_updated": "2026-10-19T19:47:13.876Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

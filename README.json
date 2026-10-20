@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-19T18:28:35Z",
-            "open_issues": 256,
+            "last_commit": "2026-10-20T09:07:02Z",
+            "open_issues": 261,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175024,
+            "stars": 175018,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 531,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50038,
+            "stars": 50039,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29802,
+            "stars": 29803,
             "topics": [
               "css",
               "foundation",
@@ -122,7 +122,7 @@
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1431,
+            "stars": 1432,
             "topics": [
               "card",
               "cirrus",
@@ -170,7 +170,7 @@
                 "open_issues": 24,
                 "owner": "oddbird",
                 "repo": "susy",
-                "stars": 3817,
+                "stars": 3818,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -191,7 +191,7 @@
                 "open_issues": 12,
                 "owner": "mojotech",
                 "repo": "jeet",
-                "stars": 2953,
+                "stars": 2954,
                 "topics": [
                   "grid",
                   "sass",
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5579,
+                "stars": 5580,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -713,7 +713,7 @@
                 "open_issues": 0,
                 "owner": "salesforce-ux",
                 "repo": "sass-deprecate",
-                "stars": 270,
+                "stars": 269,
                 "topics": [
                   "sass",
                   "sass-mixins",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6960,
+            "stars": 6961,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5391,
+            "stars": 5392,
             "topics": [
               "browser-extension",
               "github",
@@ -922,7 +922,7 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-10-17T01:24:24Z",
+            "last_commit": "2026-10-20T02:44:28Z",
             "open_issues": 74,
             "owner": "sass",
             "repo": "dart-sass",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:47:13.876Z",
+    "last_updated": "2026-10-20T18:25:24.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

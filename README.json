@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-25T13:30:32Z",
-            "open_issues": 291,
+            "last_commit": "2026-10-26T17:16:04Z",
+            "open_issues": 293,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175013,
+            "stars": 175014,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50038,
+            "stars": 50039,
             "topics": [
               "css",
               "css-framework",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12493,
+            "stars": 12494,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -118,7 +118,7 @@
             "id": 77105582,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-10-19T04:49:05Z",
+            "last_commit": "2026-10-26T04:27:56Z",
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
@@ -223,7 +223,7 @@
                 "open_issues": 29,
                 "owner": "at-import",
                 "repo": "breakpoint",
-                "stars": 2078,
+                "stars": 2077,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -244,7 +244,7 @@
                 "open_issues": 3,
                 "owner": "sass-mq",
                 "repo": "sass-mq",
-                "stars": 1984,
+                "stars": 1983,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5581,
+                "stars": 5580,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -981,7 +981,7 @@
             "open_issues": 67,
             "owner": "sds",
             "repo": "scss-lint",
-            "stars": 3678,
+            "stars": 3677,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:35:37.348Z",
+    "last_updated": "2026-10-26T19:51:10.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

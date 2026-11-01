@@ -15,8 +15,8 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:21:22Z",
-            "open_issues": 298,
+            "last_commit": "2026-11-01T07:41:44Z",
+            "open_issues": 301,
             "owner": "twbs",
             "repo": "bootstrap",
             "stars": 174965,
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50035,
+            "stars": 50034,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29804,
+            "stars": 29805,
             "topics": [
               "css",
               "foundation",
@@ -310,7 +310,7 @@
                 "open_issues": 26,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5582,
+                "stars": 5583,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -600,7 +600,7 @@
                 "open_issues": 2,
                 "owner": "JohnAlbin",
                 "repo": "normalize-scss",
-                "stars": 1418,
+                "stars": 1417,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:31:18.621Z"
@@ -642,7 +642,7 @@
                 "open_issues": 1,
                 "owner": "josephfusco",
                 "repo": "angled-edges",
-                "stars": 946,
+                "stars": 944,
                 "topics": [
                   "angled",
                   "css",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6958,
+            "stars": 6961,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:26:56.197Z",
+    "last_updated": "2026-11-01T18:51:35.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

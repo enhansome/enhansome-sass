@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:37:50Z",
-            "open_issues": 307,
+            "last_commit": "2026-11-10T10:04:23Z",
+            "open_issues": 313,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175029,
+            "stars": 175039,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50034,
+            "stars": 50033,
             "topics": [
               "css",
               "css-framework",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12489,
+            "stars": 12491,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -522,7 +522,7 @@
                 "open_issues": 42,
                 "owner": "strues",
                 "repo": "retinajs",
-                "stars": 4373,
+                "stars": 4372,
                 "topics": [
                   "dpi",
                   "image",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6960,
+            "stars": 6961,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -851,7 +851,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8436,
+            "stars": 8437,
             "topics": [
               "libsass",
               "node-sass",
@@ -922,8 +922,8 @@
             "id": 72474275,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-07T04:07:01Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-10T02:43:00Z",
+            "open_issues": 74,
             "owner": "sass",
             "repo": "dart-sass",
             "stars": 4236,
@@ -1023,7 +1023,7 @@
             "open_issues": 10,
             "owner": "sass",
             "repo": "libsass-python",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "python",
               "sass",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:22:49.602Z",
+    "last_updated": "2026-11-10T20:45:49.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
@@ -1139,7 +1139,7 @@
       "open_issues": 9,
       "owner": "Famolus",
       "repo": "awesome-sass",
-      "stars": 1902,
+      "stars": 1903,
       "topics": [
         "css",
         "sass",

@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-11-11T17:53:54Z",
-            "open_issues": 314,
+            "last_commit": "2026-11-12T20:48:19Z",
+            "open_issues": 299,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175037,
+            "stars": 175050,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50034,
+            "stars": 50037,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29810,
+            "stars": 29811,
             "topics": [
               "css",
               "foundation",
@@ -307,10 +307,10 @@
                 "language": "Handlebars",
                 "license": "MIT",
                 "last_commit": "2023-12-10T16:29:40Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5584,
+                "stars": 5583,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:15:34.315Z",
+    "last_updated": "2026-11-12T21:24:45.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

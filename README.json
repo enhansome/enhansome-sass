@@ -16,10 +16,10 @@
             "language": "MDX",
             "license": "MIT",
             "last_commit": "2026-11-12T20:48:19Z",
-            "open_issues": 299,
+            "open_issues": 313,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175050,
+            "stars": 175055,
             "topics": [
               "bootstrap",
               "css",
@@ -45,10 +45,10 @@
             "language": "CSS",
             "license": "MIT",
             "last_commit": "2026-09-21T09:56:34Z",
-            "open_issues": 532,
+            "open_issues": 533,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50037,
+            "stars": 50034,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29811,
+            "stars": 29812,
             "topics": [
               "css",
               "foundation",
@@ -191,7 +191,7 @@
                 "open_issues": 12,
                 "owner": "mojotech",
                 "repo": "jeet",
-                "stars": 2954,
+                "stars": 2953,
                 "topics": [
                   "grid",
                   "sass",
@@ -569,7 +569,7 @@
                 "open_issues": 57,
                 "owner": "lokesh-coder",
                 "repo": "pretty-checkbox",
-                "stars": 1801,
+                "stars": 1800,
                 "topics": [
                   "animation",
                   "bootstrap",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:24:45.188Z",
+    "last_updated": "2026-11-13T20:50:54.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

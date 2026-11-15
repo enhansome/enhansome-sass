@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "MDX",
             "license": "MIT",
-            "last_commit": "2026-11-14T18:09:10Z",
-            "open_issues": 320,
+            "last_commit": "2026-11-14T20:53:04Z",
+            "open_issues": 316,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175059,
+            "stars": 175063,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50036,
+            "stars": 50034,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29812,
+            "stars": 29814,
             "topics": [
               "css",
               "foundation",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12491,
+            "stars": 12489,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -122,7 +122,7 @@
             "open_issues": 29,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
-            "stars": 1432,
+            "stars": 1433,
             "topics": [
               "card",
               "cirrus",
@@ -1002,7 +1002,7 @@
             "open_issues": 10,
             "owner": "rails",
             "repo": "sass-rails",
-            "stars": 860,
+            "stars": 859,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:01:40.578Z",
+    "last_updated": "2026-11-15T19:41:30.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

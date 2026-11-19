@@ -52,11 +52,11 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,090 | 🐛 324 | 🌐 MDX | 📅 2026-11-18 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,035 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Modern CSS framework based on Flexbox.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,087 | 🐛 311 | 🌐 JavaScript | 📅 2026-11-19 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,034 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Modern CSS framework based on Flexbox.
 * [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,818 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,489 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
-* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,433 | 🐛 29 | 🌐 SCSS | 📅 2026-11-16 - A component and utility centric SCSS framework designed for rapid prototyping.
+* [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,488 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
+* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,432 | 🐛 29 | 🌐 SCSS | 📅 2026-11-16 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 * [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
@@ -70,7 +70,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Grid
 
-* [Susy](https://github.com/oddbird/susy) ⭐ 3,817 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
+* [Susy](https://github.com/oddbird/susy) ⭐ 3,816 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
 * [Jeet](https://github.com/mojotech/jeet) ⚠️ Archived - Simple fractional grid system for Sass and Stylus.
 * [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 * [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
@@ -120,7 +120,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [normalize-scss](https://github.com/JohnAlbin/normalize-scss) ⭐ 1,416 | 🐛 2 | 🌐 SCSS | 📅 2023-11-11 -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 * [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) ⭐ 1,105 | 🐛 4 | 🌐 CSS | 📅 2018-01-16 - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 * [Angled Edges](https://github.com/josephfusco/angled-edges) ⭐ 944 | 🐛 1 | 🌐 CSS | 📅 2019-01-04 - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
-* [Scut](https://github.com/davidtheclark/scut) ⭐ 751 | 🐛 0 | 🌐 SCSS | 📅 2022-02-07 - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+* [Scut](https://github.com/davidtheclark/scut) ⭐ 750 | 🐛 0 | 🌐 SCSS | 📅 2022-02-07 - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 * [Sassdash](https://github.com/davidkpiano/sassdash) ⭐ 391 | 🐛 7 | 🌐 SCSS | 📅 2023-07-21 - The Sass implementation of lodash ([API documentation](http://davidkpiano.github.io/sassdash)).
 * [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) ⚠️ Archived - Sass mixin that helps managing code deprecation.
 * [Buttono](https://github.com/hsnaydd/buttono) ⭐ 91 | 🐛 9 | 🌐 SCSS | 📅 2026-02-02 - A flexible Sass mixin for creating BEM-style buttons.
@@ -159,9 +159,9 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ## Tools
 
 * [node-sass](https://github.com/sass/node-sass) ⚠️ Archived - Node.js bindings to libsass.
-* [OctoLinker](https://github.com/OctoLinker/browser-extension) ⭐ 5,395 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Navigate through \*.scss and \*.sass files efficiently with the OctoLinker browser extension for GitHub.
+* [OctoLinker](https://github.com/OctoLinker/browser-extension) ⭐ 5,396 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Navigate through \*.scss and \*.sass files efficiently with the OctoLinker browser extension for GitHub.
 * [libsass](https://github.com/sass/libsass) ⚠️ Archived - C/C++ implementation of a Sass compiler.
-* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 80 | 🌐 Dart | 📅 2026-11-18 - Dart implementation of Sass.
+* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 80 | 🌐 Dart | 📅 2026-11-19 - Dart implementation of Sass.
 * [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,888 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-06 - Sass loader for webpack.
 * [scss-lint](https://github.com/brigade/scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16 - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16
 * [sass-rails](https://github.com/rails/sass-rails) ⭐ 859 | 🐛 10 | 🌐 Ruby | 📅 2020-10-01 - Ruby on Rails stylesheet engine for Sass.
@@ -201,4 +201,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

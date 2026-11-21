@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:47:19Z",
-            "open_issues": 304,
+            "last_commit": "2026-11-21T01:17:12Z",
+            "open_issues": 276,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175098,
+            "stars": 175106,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 532,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50034,
+            "stars": 50035,
             "topics": [
               "css",
               "css-framework",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29820,
+            "stars": 29821,
             "topics": [
               "css",
               "foundation",
@@ -101,7 +101,7 @@
             "open_issues": 31,
             "owner": "twbs",
             "repo": "bootstrap-sass",
-            "stars": 12488,
+            "stars": 12489,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -118,8 +118,8 @@
             "id": 77105582,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-16T04:27:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-21T07:24:31Z",
+            "open_issues": 28,
             "owner": "Spiderpig86",
             "repo": "Cirrus",
             "stars": 1432,
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6959,
+            "stars": 6960,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -905,7 +905,7 @@
             "open_issues": 159,
             "owner": "sass",
             "repo": "libsass",
-            "stars": 4318,
+            "stars": 4317,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:45:03.444Z",
+    "last_updated": "2026-11-21T20:27:16.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
@@ -1139,7 +1139,7 @@
       "open_issues": 9,
       "owner": "Famolus",
       "repo": "awesome-sass",
-      "stars": 1903,
+      "stars": 1902,
       "topics": [
         "css",
         "sass",

@@ -15,11 +15,11 @@
             "id": 2126244,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T01:17:12Z",
-            "open_issues": 276,
+            "last_commit": "2026-11-22T17:46:14Z",
+            "open_issues": 251,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175106,
+            "stars": 175114,
             "topics": [
               "bootstrap",
               "css",
@@ -75,7 +75,7 @@
             "open_issues": 81,
             "owner": "foundation",
             "repo": "yeti",
-            "stars": 29821,
+            "stars": 29823,
             "topics": [
               "css",
               "foundation",
@@ -310,7 +310,7 @@
                 "open_issues": 25,
                 "owner": "yeun",
                 "repo": "open-color",
-                "stars": 5584,
+                "stars": 5586,
                 "topics": [
                   "adobe-library",
                   "color",
@@ -782,7 +782,7 @@
             "open_issues": 23,
             "owner": "airbnb",
             "repo": "css",
-            "stars": 6960,
+            "stars": 6961,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:18.621Z"
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:27:16.323Z",
+    "last_updated": "2026-11-22T20:39:52.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",

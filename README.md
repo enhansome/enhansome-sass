@@ -52,11 +52,11 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,114 | 🐛 251 | 🌐 JavaScript | 📅 2026-11-22 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,035 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,823 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,118 | 🐛 246 | 🌐 JavaScript | 📅 2026-11-23 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,032 | 🐛 525 | 🌐 CSS | 📅 2026-11-24 - Modern CSS framework based on Flexbox.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,826 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,489 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
-* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,432 | 🐛 28 | 🌐 SCSS | 📅 2026-11-21 - A component and utility centric SCSS framework designed for rapid prototyping.
+* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,432 | 🐛 29 | 🌐 SCSS | 📅 2026-11-23 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 * [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
@@ -98,7 +98,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Typography
 
-* [Typi](https://github.com/zellwk/typi) ⭐ 853 | 🐛 8 | 🌐 CSS | 📅 2022-12-09 - Sass mixin to make responsive typography easy.
+* [Typi](https://github.com/zellwk/typi) ⭐ 852 | 🐛 8 | 🌐 CSS | 📅 2022-12-09 - Sass mixin to make responsive typography easy.
 * [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover) ⭐ 221 | 🐛 2 | 🌐 HTML | 📅 2019-04-01 - Super easy to use Sass mixins to establish a typographic system with modular scale and vertical rhythm. Based on the Gridlover app.
 * [Sassline](https://sassline.com/) - Set text on the web to a baseline grid with Sass & rems using a responsive modular-scale.
 * [Shevy](http://kyleshevlin.github.io/shevy/) - Typography made easy. A vertical rhythm library.
@@ -161,7 +161,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [node-sass](https://github.com/sass/node-sass) ⚠️ Archived - Node.js bindings to libsass.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) ⭐ 5,396 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Navigate through \*.scss and \*.sass files efficiently with the OctoLinker browser extension for GitHub.
 * [libsass](https://github.com/sass/libsass) ⚠️ Archived - C/C++ implementation of a Sass compiler.
-* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 79 | 🌐 Dart | 📅 2026-11-20 - Dart implementation of Sass.
+* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 79 | 🌐 Dart | 📅 2026-11-23 - Dart implementation of Sass.
 * [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,888 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-20 - Sass loader for webpack.
 * [scss-lint](https://github.com/brigade/scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16 - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16
 * [sass-rails](https://github.com/rails/sass-rails) ⭐ 859 | 🐛 10 | 🌐 Ruby | 📅 2020-10-01 - Ruby on Rails stylesheet engine for Sass.
@@ -201,4 +201,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

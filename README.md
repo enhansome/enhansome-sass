@@ -52,11 +52,11 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,118 | 🐛 246 | 🌐 JavaScript | 📅 2026-11-23 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,032 | 🐛 525 | 🌐 CSS | 📅 2026-11-24 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,826 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,122 | 🐛 235 | 🌐 JavaScript | 📅 2026-11-24 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bulma](https://github.com/jgthms/bulma) ⭐ 50,031 | 🐛 525 | 🌐 CSS | 📅 2026-11-24 - Modern CSS framework based on Flexbox.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,825 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,489 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
-* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,432 | 🐛 29 | 🌐 SCSS | 📅 2026-11-23 - A component and utility centric SCSS framework designed for rapid prototyping.
+* [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,431 | 🐛 29 | 🌐 SCSS | 📅 2026-11-23 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
 * [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - Universal and lightweight stylesheet starter kit that focuses on base html elements and typography.
 * [iotaCSS](https://www.iotacss.com) - Open source Sass-based OOCSS framework built for scale.
@@ -70,7 +70,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Grid
 
-* [Susy](https://github.com/oddbird/susy) ⭐ 3,816 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
+* [Susy](https://github.com/oddbird/susy) ⭐ 3,815 | 🐛 24 | 🌐 SCSS | 📅 2024-04-16 - Responsive layout toolkit for Sass.
 * [Jeet](https://github.com/mojotech/jeet) ⚠️ Archived - Simple fractional grid system for Sass and Stylus.
 * [Avalanche](http://colourgarden.net/avalanche) - Lightweight, responsive, Sass-based, BEM-syntax grid system.
 * [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
@@ -92,7 +92,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Color
 
-* [Open color](https://github.com/yeun/open-color) ⭐ 5,586 | 🐛 25 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
+* [Open color](https://github.com/yeun/open-color) ⭐ 5,584 | 🐛 25 | 🌐 Handlebars | 📅 2023-12-10 - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) ⭐ 812 | 🐛 4 | 🌐 CSS | 📅 2017-09-01 - Using standard color blending functions in Sass.
 * [sass-planifolia](https://github.com/xi/sass-planifolia) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2022-07-15 - Advanced color manipulation and contrast calculation in vanilla Sass.
 
@@ -105,7 +105,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Animation
 
-* [Animate.scss](https://github.com/geoffgraham/animate.scss) ⭐ 653 | 🐛 9 | 🌐 SCSS | 📅 2025-03-21 -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+* [Animate.scss](https://github.com/geoffgraham/animate.scss) ⭐ 652 | 🐛 9 | 🌐 SCSS | 📅 2025-03-21 -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 * [Sass Burger](https://github.com/jorenvanhee/sass-burger) ⭐ 644 | 🐛 1 | 🌐 CSS | 📅 2021-09-29 - Sass mixin for creating animated hamburger icon.
 * [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 * [Kf](https://kf-sass.com) - Sass mixin library for creating keyframe-based animations from maps.
@@ -115,7 +115,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 * [Buttons](https://github.com/alexwolfe/Buttons) ⭐ 4,986 | 🐛 15 | 🌐 JavaScript | 📅 2025-06-10 - CSS button library built using Sass and Compass.
 * [retina.js](https://github.com/imulus/retinajs) ⚠️ Archived - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-* [Modular Scale](https://github.com/modularscale/modularscale-sass) ⭐ 1,956 | 🐛 18 | 🌐 CSS | 📅 2025-11-29 - Modular scale calculator built into your Sass.
+* [Modular Scale](https://github.com/modularscale/modularscale-sass) ⭐ 1,955 | 🐛 18 | 🌐 CSS | 📅 2025-11-29 - Modular scale calculator built into your Sass.
 * [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) ⭐ 1,800 | 🐛 57 | 🌐 CSS | 📅 2020-10-14 -  SCSS/CSS library to beautify checkbox and radio buttons.
 * [normalize-scss](https://github.com/JohnAlbin/normalize-scss) ⭐ 1,416 | 🐛 2 | 🌐 SCSS | 📅 2023-11-11 -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 * [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) ⭐ 1,105 | 🐛 4 | 🌐 CSS | 📅 2018-01-16 - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
@@ -161,9 +161,9 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 * [node-sass](https://github.com/sass/node-sass) ⚠️ Archived - Node.js bindings to libsass.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) ⭐ 5,396 | 🐛 62 | 🌐 HTML | 📅 2023-10-02 - Navigate through \*.scss and \*.sass files efficiently with the OctoLinker browser extension for GitHub.
 * [libsass](https://github.com/sass/libsass) ⚠️ Archived - C/C++ implementation of a Sass compiler.
-* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 79 | 🌐 Dart | 📅 2026-11-23 - Dart implementation of Sass.
-* [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,888 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-20 - Sass loader for webpack.
-* [scss-lint](https://github.com/brigade/scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16 - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) ⭐ 3,680 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16
+* [dart-sass](https://github.com/sass/dart-sass) ⭐ 4,238 | 🐛 80 | 🌐 Dart | 📅 2026-11-24 - Dart implementation of Sass.
+* [sass-loader](https://github.com/jtangelder/sass-loader) ⭐ 3,887 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-20 - Sass loader for webpack.
+* [scss-lint](https://github.com/brigade/scss-lint) ⭐ 3,679 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16 - Configurable tool for writing clean and consistent SCSS. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint) ⭐ 3,679 | 🐛 67 | 🌐 Ruby | 📅 2024-01-16
 * [sass-rails](https://github.com/rails/sass-rails) ⭐ 859 | 🐛 10 | 🌐 Ruby | 📅 2020-10-01 - Ruby on Rails stylesheet engine for Sass.
 * [libsass-python](https://github.com/dahlia/libsass-python) ⚠️ Archived - Binding of libsass for Python.
 * [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer) ⭐ 294 | 🐛 36 | 🌐 TypeScript | 📅 2023-10-16 - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.

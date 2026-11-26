@@ -52,9 +52,9 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Frameworks
 
-* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,134 | 🐛 232 | 🌐 JavaScript | 📅 2026-11-25 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+* [Bootstrap 4](https://github.com/twbs/bootstrap) ⭐ 175,136 | 🐛 241 | 🌐 JavaScript | 📅 2026-11-26 - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 * [Bulma](https://github.com/jgthms/bulma) ⭐ 50,031 | 🐛 524 | 🌐 CSS | 📅 2026-11-24 - Modern CSS framework based on Flexbox.
-* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,825 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-06 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+* [Foundation for Sites](https://github.com/zurb/foundation-sites) ⭐ 29,824 | 🐛 81 | 🌐 JavaScript | 📅 2026-11-26 - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 * [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) ⭐ 12,489 | 🐛 31 | 🌐 SCSS | 📅 2026-01-03 - Official Sass port of Bootstrap 2 and 3.
 * [Cirrus](https://github.com/Spiderpig86/Cirrus) ⭐ 1,431 | 🐛 29 | 🌐 SCSS | 📅 2026-11-23 - A component and utility centric SCSS framework designed for rapid prototyping.
 * [avalanche](https://avalanche.oberlehner.net) - Framework for building the foundation for a package based CSS workflow.
@@ -113,7 +113,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ### Miscellaneous
 
-* [Buttons](https://github.com/alexwolfe/Buttons) ⭐ 4,986 | 🐛 15 | 🌐 JavaScript | 📅 2025-06-10 - CSS button library built using Sass and Compass.
+* [Buttons](https://github.com/alexwolfe/Buttons) ⭐ 4,987 | 🐛 15 | 🌐 JavaScript | 📅 2025-06-10 - CSS button library built using Sass and Compass.
 * [retina.js](https://github.com/imulus/retinajs) ⚠️ Archived - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 * [Modular Scale](https://github.com/modularscale/modularscale-sass) ⭐ 1,955 | 🐛 18 | 🌐 CSS | 📅 2025-11-29 - Modular scale calculator built into your Sass.
 * [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) ⭐ 1,800 | 🐛 57 | 🌐 CSS | 📅 2020-10-14 -  SCSS/CSS library to beautify checkbox and radio buttons.
@@ -133,7 +133,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## Style Guides
 
-* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,961 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
+* [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) ⭐ 6,960 | 🐛 23 | 📅 2024-06-04 - Sass and CSS style guide by Airbnb.
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) ⭐ 1,208 | 🐛 5 | 📅 2019-11-08 - Dropbox’s (S)CSS authoring style guide.
 * [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) ⭐ 279 | 🐛 1 | 🌐 CSS | 📅 2017-05-23 - Guidelines in use at BigCommerce.
 * [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
@@ -201,4 +201,4 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

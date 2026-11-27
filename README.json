@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-11-26T06:55:29Z",
-            "open_issues": 241,
+            "open_issues": 244,
             "owner": "twbs",
             "repo": "bootstrap",
-            "stars": 175136,
+            "stars": 175113,
             "topics": [
               "bootstrap",
               "css",
@@ -48,7 +48,7 @@
             "open_issues": 524,
             "owner": "jgthms",
             "repo": "bulma",
-            "stars": 50031,
+            "stars": 50029,
             "topics": [
               "css",
               "css-framework",
@@ -851,7 +851,7 @@
             "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8433,
+            "stars": 8432,
             "topics": [
               "libsass",
               "node-sass",
@@ -878,7 +878,7 @@
             "open_issues": 62,
             "owner": "OctoLinker",
             "repo": "OctoLinker",
-            "stars": 5396,
+            "stars": 5397,
             "topics": [
               "browser-extension",
               "github",
@@ -1127,7 +1127,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T22:54:59.003Z",
+    "last_updated": "2026-11-27T22:37:56.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎨 Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources.",
